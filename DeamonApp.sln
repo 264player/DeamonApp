@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeamonApp", "DeamonApp\DeamonApp.csproj", "{E13780E9-988E-4794-A562-3C2BEFE7FF2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deamon1", "Deamon1\Deamon1.csproj", "{82DDBA60-E018-432B-B8BE-AAE93E3ACC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deamon2", "Deamon2\Deamon2.csproj", "{622F4C84-6805-43E6-B210-5F8A60412069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13780E9-988E-4794-A562-3C2BEFE7FF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13780E9-988E-4794-A562-3C2BEFE7FF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13780E9-988E-4794-A562-3C2BEFE7FF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13780E9-988E-4794-A562-3C2BEFE7FF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DDBA60-E018-432B-B8BE-AAE93E3ACC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DDBA60-E018-432B-B8BE-AAE93E3ACC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DDBA60-E018-432B-B8BE-AAE93E3ACC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DDBA60-E018-432B-B8BE-AAE93E3ACC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622F4C84-6805-43E6-B210-5F8A60412069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622F4C84-6805-43E6-B210-5F8A60412069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622F4C84-6805-43E6-B210-5F8A60412069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622F4C84-6805-43E6-B210-5F8A60412069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24ECA019-8F15-4A60-A549-F3CB509FD869}
+	EndGlobalSection
+EndGlobal
